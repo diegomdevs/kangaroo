@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "name": "kangaroo",
+  "description": "Number Line Jumps solution. Problem from HackerRank.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc src/index.ts",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegomdevs/kangaroo.git"
+  },
+  "author": "diegomdevs <diegom.develops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegomdevs/kangaroo/issues"
+  },
+  "homepage": "https://github.com/diegomdevs/kangaroo#readme"
+}
